@@ -14,8 +14,16 @@ You'll be fetching the sorted JSON data directly from the Github API (Github API
   * Number of issues for the repo.
   * Username and avatar of the owner. 
 * As a User I should be able to keep scrolling and new results should appear (pagination).
+* As a User when I click on single card it should open a single page contains the following:
+  * Repository name
+  * Repository description 
+  * Number of stars for the repo. 
+  * Number of issues for the repo.
+  * Username and avatar of the owner. 
+
 
 ## Things to keep in mind 🚨
+* You are welcome to choose the colors.
 * Features are less important than code quality. Put more focus on code quality and less on speed and number of features implemented. 
 * Your code will be evaluated based on: code structure, programming best practices, legibility (and not number of features implemented or speed). 
 * The git commit history (and git commit messages) will be also evaluated.
